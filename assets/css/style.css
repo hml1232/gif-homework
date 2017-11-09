@@ -1,0 +1,47 @@
+html{
+	background: url("../images/yum.jpg")no-repeat center center fixed; 
+	background-size: cover
+} 
+
+body{
+	background-color: transparent; 
+	color: black; 
+} 
+
+h1{
+padding:1em 0em 1.5em 0em; 
+font-size: 60px; 
+ text-align: center;
+ font-family: 'Pacifico', cursive;
+	
+} 
+
+.food-gif {
+	padding: 10px; 
+	margin: 5px; 
+	border: 2px solid black; 
+	width: 350px; 
+	height: auto; 
+	background: white;
+} 
+
+.col-lg-6{ 
+	text-align: center;
+} 
+
+.gif-row{
+	margin: 5px;
+} 
+
+
+#content{
+	font-size: 16px;
+	
+}
+
+.btn-warning{
+color: #111;
+background-color: tomato;
+border-color: tomato;
+}
+
